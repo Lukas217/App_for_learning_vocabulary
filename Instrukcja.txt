@@ -1,0 +1,6 @@
+1. Wejdź w folder main
+2. Znajdź plik excela "polskie_slowka"
+3. Wpisuj jedno pod drugim, słowa które chcesz żeby się znalazły w programie. (Nie ruszaj wiersza pierwszego "slowka_polski").
+4. Zamnij arkusz.
+5. Znajdź i otwórz program "main".
+	
